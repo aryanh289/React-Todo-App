@@ -1,6 +1,8 @@
 # Todo-App is a react based Todo list manager application that runs on any browser and also can save your data in localstorage.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and successfully deployed on Heroku cloud. It's up and running.
+
+Have a look: https://to-9-do.herokuapp.com/
 
 ## Available Scripts
 
